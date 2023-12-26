@@ -1,0 +1,83 @@
+C:\Users\Jeiberth Malagon\Videos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Jeiberth Malagon\Videos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Jeiberth Malagon\Videos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Jeiberth Malagon\Videos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Jeiberth Malagon\Videos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Jeiberth Malagon\Videos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Jeiberth Malagon\Videos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Jeiberth Malagon\Videos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Jeiberth Malagon\Videos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Jeiberth Malagon\Videos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Jeiberth Malagon\Videos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Jeiberth Malagon\Videos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Jeiberth Malagon\Videos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Jeiberth Malagon\Videos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Jeiberth Malagon\Videos\WpfApp1\WpfApp1\obj\Debug\Admin\CreateAccountWindow.g.cs
+C:\Users\Jeiberth Malagon\Videos\WpfApp1\WpfApp1\obj\Debug\User\PersonalWindow.g.cs
+C:\Users\Jeiberth Malagon\Videos\WpfApp1\WpfApp1\obj\Debug\Admin\WindowAdmin.g.cs
+C:\Users\Jeiberth Malagon\Videos\WpfApp1\WpfApp1\obj\Debug\Admin\WindowModify.g.cs
+C:\Users\Jeiberth Malagon\Videos\WpfApp1\WpfApp1\obj\Debug\User\WindowUser.g.cs
+C:\Users\Jeiberth Malagon\Videos\WpfApp1\WpfApp1\obj\Debug\Rest\App.g.cs
+C:\Users\Jeiberth Malagon\Videos\WpfApp1\WpfApp1\obj\Debug\Admin\CreateAccountWindow.baml
+C:\Users\Jeiberth Malagon\Videos\WpfApp1\WpfApp1\obj\Debug\User\PersonalWindow.baml
+C:\Users\Jeiberth Malagon\Videos\WpfApp1\WpfApp1\obj\Debug\Admin\WindowAdmin.baml
+C:\Users\Jeiberth Malagon\Videos\WpfApp1\WpfApp1\obj\Debug\Admin\WindowModify.baml
+C:\Users\Jeiberth Malagon\Videos\WpfApp1\WpfApp1\obj\Debug\User\WindowUser.baml
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\AppDevelopment\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\AppDevelopment\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\AppDevelopment\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\AppDevelopment\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\AppDevelopment\WpfApp1\WpfApp1\obj\Debug\Admin\CreateAccountWindow.g.cs
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\AppDevelopment\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\AppDevelopment\WpfApp1\WpfApp1\obj\Debug\User\PersonalWindow.g.cs
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\AppDevelopment\WpfApp1\WpfApp1\obj\Debug\Admin\WindowAdmin.g.cs
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\AppDevelopment\WpfApp1\WpfApp1\obj\Debug\Admin\WindowModify.g.cs
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\AppDevelopment\WpfApp1\WpfApp1\obj\Debug\User\WindowUser.g.cs
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\AppDevelopment\WpfApp1\WpfApp1\obj\Debug\Rest\App.g.cs
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\AppDevelopment\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\AppDevelopment\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\AppDevelopment\WpfApp1\WpfApp1\obj\Debug\Admin\CreateAccountWindow.baml
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\AppDevelopment\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\AppDevelopment\WpfApp1\WpfApp1\obj\Debug\User\PersonalWindow.baml
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\AppDevelopment\WpfApp1\WpfApp1\obj\Debug\Admin\WindowAdmin.baml
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\AppDevelopment\WpfApp1\WpfApp1\obj\Debug\Admin\WindowModify.baml
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\AppDevelopment\WpfApp1\WpfApp1\obj\Debug\User\WindowUser.baml
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\AppDevelopment\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\AppDevelopment\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\AppDevelopment\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\AppDevelopment\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\AppDevelopment\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\AppDevelopment\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\AppDevelopment\WpfApp1\WpfApp1\obj\Debug\Admin\TransactionsAdmin.g.cs
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\AppDevelopment\WpfApp1\WpfApp1\obj\Debug\Admin\TransactionsAdmin.baml
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\AppDevelopment\WpfApp1\WpfApp1\obj\Debug\User\Info.g.cs
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\AppDevelopment\WpfApp1\WpfApp1\obj\Debug\User\Info.baml
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\Final Project\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\Final Project\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\Final Project\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\Final Project\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\Final Project\WpfApp1\WpfApp1\obj\Debug\Admin\CreateAccountWindow.g.cs
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\Final Project\WpfApp1\WpfApp1\obj\Debug\User\Info.g.cs
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\Final Project\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\Final Project\WpfApp1\WpfApp1\obj\Debug\Admin\TransactionsAdmin.g.cs
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\Final Project\WpfApp1\WpfApp1\obj\Debug\User\PersonalWindow.g.cs
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\Final Project\WpfApp1\WpfApp1\obj\Debug\Admin\WindowAdmin.g.cs
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\Final Project\WpfApp1\WpfApp1\obj\Debug\Admin\WindowModify.g.cs
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\Final Project\WpfApp1\WpfApp1\obj\Debug\User\WindowUser.g.cs
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\Final Project\WpfApp1\WpfApp1\obj\Debug\Rest\App.g.cs
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\Final Project\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\Final Project\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\Final Project\WpfApp1\WpfApp1\obj\Debug\Admin\CreateAccountWindow.baml
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\Final Project\WpfApp1\WpfApp1\obj\Debug\User\Info.baml
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\Final Project\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\Final Project\WpfApp1\WpfApp1\obj\Debug\Admin\TransactionsAdmin.baml
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\Final Project\WpfApp1\WpfApp1\obj\Debug\User\PersonalWindow.baml
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\Final Project\WpfApp1\WpfApp1\obj\Debug\Admin\WindowAdmin.baml
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\Final Project\WpfApp1\WpfApp1\obj\Debug\Admin\WindowModify.baml
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\Final Project\WpfApp1\WpfApp1\obj\Debug\User\WindowUser.baml
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\Final Project\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\Final Project\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\Final Project\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\Final Project\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\Final Project\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Jeiberth Malagon\OneDrive\Escritorio\Final Project\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
